@@ -4,25 +4,20 @@
 
 We want to explore all possible software solutions, including applications, tools, and services, that help customers leverage the capabilities of cloud services. We want to provide a curated list of software solutions that are cloud native, open source, and free to use. We want to provide a list of software solutions that are available on the major cloud providers, including Alibaba Cloud, AWS, Azure, and GCP.
 
-## Table of Contents
+## Planned Projects
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [kubernetes-on-alibaba](#kubernetes-on-alibaba)
 
-## Installation
+## kubernetes-on-alibaba
 
-Instructions on how to install any necessary dependencies or prerequisites for the organization's projects.
+We try to build a multi-tenant kubernetes solution on Alibaba Cloud.
 
-## Usage
-
-Guidelines on how to use the organization's projects, including any examples or tutorials if available.
+Project source code is available at [kubernetes-on-alibaba](https://github.com/cloud-native-isv/kubernetes-on-alibaba)
 
 ## Contributing
 
-Information on how to contribute to the organization's projects, including guidelines, code of conduct, and instructions on how to submit pull requests or issues.
+Anyone who is interested in cloud native technologies is welcome to join us.
 
 ## License
 
-Information about the license(s) used for the organization's projects, including any restrictions or permissions granted.
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
